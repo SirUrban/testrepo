@@ -1,1 +1,1 @@
-Dieser Text dient zum Texten mit GIT.
+Dieser Text dient zum Testen mit GIT.
